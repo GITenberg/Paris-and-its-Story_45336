@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '32019'
     url: http://www.gutenberg.org/2009/agents/32019
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45336#Paris-and-its-Story
 gutenberg_issued: '2014-04-06'
 gutenberg_type: Text
 identifiers:
